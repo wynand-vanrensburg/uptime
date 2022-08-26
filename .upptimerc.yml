@@ -9,12 +9,30 @@ sites:
     check: "tcp-ping"
     url: $SECRET_URL
     port: $SECRET_PORT
+    assignees:
+    - wynand-vanrensburg
   - name: AccountAPI_2
     check: "tcp-ping"
     url: http://$SECRET_URL
     port: $SECRET_PORT
+    assignees:
+    - wynand-vanrensburg
+  - name: AccountAPI_3
+    check: tcp-ping
+    url: $SECRET_URL
+    port: $SECRET_PORT
+    assignees:
+    - wynand-vanrensburg
+  - name: AccountAPI_4
+    check: tcp-ping
+    url: http://$SECRET_URL
+    port: $SECRET_PORT
+    assignees:
+    - wynand-vanrensburg
   - name: Account
     url: http://$SECRET_URL:$SECRET_PORT
+    assignees:
+    - wynand-vanrensburg
   - name: Github
     url: https://github.com
 
