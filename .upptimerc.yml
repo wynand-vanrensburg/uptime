@@ -5,12 +5,11 @@ repo: uptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: AccountAPI
+  - name: AccountAPI_1
     check: "tcp-ping"
     url: $SECRET_URL
     port: $SECRET_PORT
-  - name: Account
-  - name: AccountAPI_1
+  - name: AccountAPI_2
     check: "tcp-ping"
     url: http://$SECRET_URL
     port: $SECRET_PORT
