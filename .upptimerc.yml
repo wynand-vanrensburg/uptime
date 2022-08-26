@@ -12,7 +12,11 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: Account
-    url: http://192.168.168.15:30923
+    url: http://$SECRET_URL:$SECRET_PORT
+  - name: AccountAPI
+    check: "tcp-ping"
+    url: $SECRET_URL
+    port: $SECRET_PORT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
