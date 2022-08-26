@@ -15,7 +15,7 @@ sites:
     url: http://$SECRET_URL:$SECRET_PORT
   - name: AccountAPI
     check: "tcp-ping"
-    url: $SECRET_URL
+    url: http://$SECRET_URL
     port: $SECRET_PORT
 
 status-website:
