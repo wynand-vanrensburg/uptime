@@ -1,7 +1,7 @@
-url: http://$SECRET_URL
+url: $SECRET_URL
 status: down
 code: 0
 responseTime: 0
-lastUpdated: 2022-08-26T09:25:23.453Z
+lastUpdated: 2022-08-26T09:31:18.568Z
 startTime: Fri Aug 26 2022 06:34:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
