@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 101,
-    "timeWeek": 101,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "time": 94,
+    "timeDay": 94,
+    "timeWeek": 94,
+    "timeMonth": 94,
+    "timeYear": 94,
     "dailyMinutesDown": {}
   },
   {
@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "account",
     "status": "down",
-    "uptime": "40.66%",
-    "uptimeDay": "40.66%",
-    "uptimeWeek": "40.66%",
-    "uptimeMonth": "40.66%",
-    "uptimeYear": "40.66%",
+    "uptime": "62.43%",
+    "uptimeDay": "62.43%",
+    "uptimeWeek": "62.43%",
+    "uptimeMonth": "62.43%",
+    "uptimeYear": "62.43%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "account-api",
     "status": "down",
-    "uptime": "8.48%",
-    "uptimeDay": "8.48%",
-    "uptimeWeek": "8.48%",
-    "uptimeMonth": "8.48%",
-    "uptimeYear": "8.48%",
+    "uptime": "4.07%",
+    "uptimeDay": "4.07%",
+    "uptimeWeek": "4.07%",
+    "uptimeMonth": "4.07%",
+    "uptimeYear": "4.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-26": 14
+      "2022-08-26": 30
     }
   }
 ]
