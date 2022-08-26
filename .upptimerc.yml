@@ -7,8 +7,10 @@ sites:
     url: https://www.google.com
   - name: AccountAPI
     check: "tcp-ping"
-    url: http://$SECRET_URL
+    url: $SECRET_URL
     port: $SECRET_PORT
+  - name: Account
+    url: http://$SECRET_URL:$SECRET_PORT
   - name: Github
     url: https://github.com
 
