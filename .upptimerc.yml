@@ -6,11 +6,11 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Account
-    url: http://$SECRET_URL:$SECRET_PORT
+    url: http://${{ secrets.SECRET_URL }}:${{ secrets.SECRET_PORT }}
   - name: AccountAPI
     check: "tcp-ping"
-    url: http://$SECRET_URL
-    port: $SECRET_PORT
+    url: http://$${{ secrets.SECRET_URL }}
+    port: ${{ secrets.SECRET_PORT }}
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
