@@ -15,8 +15,6 @@ sites:
     port: $SECRET_PORT
   - name: Account
     url: http://$SECRET_URL:$SECRET_PORT
-    headers:
-    - "Authorization: Bearer $SECRET_AUTH"
   - name: Github
     url: https://github.com
 
