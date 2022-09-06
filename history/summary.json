@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 97,
-    "timeDay": 71,
-    "timeWeek": 134,
-    "timeMonth": 97,
-    "timeYear": 97,
+    "time": 96,
+    "timeDay": 74,
+    "timeWeek": 120,
+    "timeMonth": 96,
+    "timeYear": 96,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-06": 1377,
+      "2022-09-06": 1395,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
@@ -65,7 +65,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-06": 1377,
+      "2022-09-06": 1395,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-06": 1377,
+      "2022-09-06": 1395,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
@@ -127,7 +127,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-06": 1377,
+      "2022-09-06": 1395,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
@@ -158,7 +158,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-06": 1377,
+      "2022-09-06": 1395,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
@@ -177,19 +177,19 @@
     "url": "https://github.com",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "github",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 239,
-    "timeDay": 289,
-    "timeWeek": 207,
-    "timeMonth": 239,
-    "timeYear": 239,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 251,
+    "timeDay": 328,
+    "timeWeek": 231,
+    "timeMonth": 251,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2022-09-06": 29,
+      "2022-09-06": 46,
       "2022-09-02": 20
     }
   }
